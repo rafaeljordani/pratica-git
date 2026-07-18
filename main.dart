@@ -7,6 +7,7 @@ void main() {
 
     'Olá, aqui é o Lucas, bora codar!.',
     'tambem tenho 19 anos'
+    'Tenho 19 Anos.'
         // =====================================================================
         'Bons commits para todos.',
   ];
