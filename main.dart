@@ -6,9 +6,9 @@ void main() {
     'Olá, meu nome é rafael.',
 
     'Olá, aqui é o Lucas, bora codar!.',
-
-    // =====================================================================
-    'Bons commits para todos.',
+    'tambem tenho 19 anos'
+        // =====================================================================
+        'Bons commits para todos.',
   ];
 
   print('===== MURAL DA EQUIPE =====');
